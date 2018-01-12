@@ -1,4 +1,5 @@
 ---
+layout: page
 title:  "Welcome to Jekyll!"
 date:   2018-01-09 20:29:31 -0800
 categories: jekyll update
