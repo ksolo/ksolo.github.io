@@ -8,6 +8,18 @@ description: >-
 
 ## This is what I'm up to these days...
 
+#### Where I'm working
+I'm now a consultant for [Test Double](https://testdouble.com). I joined the team there in
+November of 2017 after closing the Dev Bootcamp in San Diego.
+
+#### Classes I'm Taking
+I recently found out about this 2 part course called
+[Building a Modern Computer from First Principles](http://nand2tetris.org/). It is often referred
+to as Nand 2 Tetris, and having completed the first part in December, I'm now starting
+the second session. This is probably the most fun I have had programming in a long time. If you see
+me anytime soon, I will likely tell you all about it. When I finish with part 2, I'll write up a
+review.
+
 #### What I'm Reading
 I like to read a little bit of fiction most night before going to sleep. My
 current book is [Sherlock Holmes: The Ulimate Collection](http://amzn.to/2DhW32i).
@@ -28,15 +40,10 @@ I'm also listening to [Alan Turing: The Enigma](http://amzn.to/2EUvOiD) audioboo
 which so far has been a little slow. I'm currently around 5 hrs into the 27 hr journey, there
 is still a lot of time for things to pick up.
 
-#### Classes I'm Taking
-I recently found out about this 2 part course called
-[Building a Modern Computer from First Principles](http://nand2tetris.org/). It is often referred
-to as Nand 2 Tetris, and having completed the first part in December of 2017, I'm now starting
-the second session. This is probably the most fun I have had programming in a long time. If you see
-me anytime soon, I will likely tell you all about it. When I finish with part 2, I'll write up a
-review.
-
 #### This Blog...
 I recently started blogging...as you can tell. Though it's just getting started. I hope to add 1
 new post every other week. I think I'll stick to mostly programming topics, but will throw in
 rants and other thoughts from time to time.
+
+---
+This page is inspired by [Derek Sivers](http://sivers.org) and his idea of a [now page](https://nownownow.com/about)
